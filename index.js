@@ -1,6 +1,6 @@
-const farmAnimals = 'cow horse sheep pig chicken'
+const farmAnimals = 'cow horse sheep pig chicken';
 
-const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 const muppet = {
   name: 'Kermit',
@@ -20,7 +20,8 @@ const k_muppet = {
       song_3: 'Never Before, Never Again',
       song_4: 'I Hope That Something Better Comes Along',
     },
-  },
+  }
+  
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
